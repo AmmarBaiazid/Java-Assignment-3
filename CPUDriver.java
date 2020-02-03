@@ -1,9 +1,8 @@
 // -------------------------------------------------------
 // Assignment (3) Question 2
-// Written by: (Ammar Baiazid id(26746632))
-// For COMP 248 Section (EC) – Fall 2019
+// Written by: (Ammar0
+// For COMP 248 Section 
 // --------------------------------------------------------
-// This program creates objects of type CPU, uses its functions, and compares them.
 public class CPUDriver {
 
 	public static void main(String[] args) {
