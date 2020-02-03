@@ -2,8 +2,6 @@
 public class CPU {
 	private int cpuGeneration;
 	private String cpuSeries;
-	private String suggestedPrice;
-	private String cpuSpeed;
 	private String launchDate;
 	private boolean SGX;
 	
