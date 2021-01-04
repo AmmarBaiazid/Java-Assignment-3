@@ -1,6 +1,6 @@
 // -------------------------------------------------------
 // Assignment (3) Question 2
-// Written by: (Ammar0
+// Written by: (Ammar)
 // For COMP 248 Section 
 // --------------------------------------------------------
 public class CPUDriver {
